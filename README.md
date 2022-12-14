@@ -1,6 +1,6 @@
-micro server one is runnint on localhost:8081
-micro server two is runnint on localhost:8082
-micro server three is runnint on localhost:8083
+micro server one is running on localhost:8081
+micro server two is running on localhost:8082
+micro server three is running on localhost:8083
 
 installation
 run command npm install in client, server, servertwo and serverThree to install nodemodules
